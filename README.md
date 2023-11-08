@@ -1,7 +1,7 @@
-Hackthone
-Group Name:Eco-Cloud,
+Hackathon
+Group Name:Eco-Solve,
 Group Members: 1:Aisha omar farah
-               2: Rosseline Ounach
+               2: Roseline Ounah
                3:Esther
                4: janet,
 
